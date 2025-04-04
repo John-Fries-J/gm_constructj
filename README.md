@@ -1,1 +1,2 @@
 # gm_constructj
+I love the old gm_construct but the new one makes me sad, there is NO detail whatsoever and just looks generally awful. I'm gonna use this to start learning how to make maps on S&Box and I hope that this is something others would want to see? 
